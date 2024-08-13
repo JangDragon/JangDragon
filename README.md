@@ -2,8 +2,7 @@
 
 Hi there 👋
 
-
-안녕하세요 예비 개발자 dev-aram 입니다😊😊
+안녕하세요 예비 개발자 장준용입니다😊😊
 
 <!--
 **JangDragon/JangDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
