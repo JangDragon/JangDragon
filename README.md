@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jun%20Dragon&fontSize=90)
 
-Hi there 👋
+Hi there 👋 \n
 안녕하세요 예비 개발자 dev-aram 입니다😊😊
 
 <!--
