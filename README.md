@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jun%20Dragon&fontSize=90)
 
+Hi there 👋
+안녕하세요 예비 개발자 dev-aram 입니다😊😊
+
 <!--
 **JangDragon/JangDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
