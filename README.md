@@ -4,7 +4,7 @@ Hi there 👋
 
 안녕하세요 예비 개발자 장준용입니다😊😊
 
-SKILLS
+💻SKILLS
 
 AI
 
@@ -24,10 +24,7 @@ Database
 
 Tools
 
-<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=Colab&logoColor=white" />
-<img src="https://img.shields.io/badge/vscode-2F80ED.svg?style=for-the-badge&logo=vscode&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=Colab&logoColor=white" /> <img src="https://img.shields.io/badge/vscode-2F80ED.svg?style=for-the-badge&logo=vscode&logoColor=white" />
 
 <!--
 **JangDragon/JangDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
