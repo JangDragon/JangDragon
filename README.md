@@ -8,7 +8,7 @@ Hi there 👋
 
 AI
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit learn-F7931E.svg?style=for-the-badge&logo=Scikit learn&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit learn-F7931E.svg?style=for-the-badge&logo=Scikit learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 
 Front-End
 
