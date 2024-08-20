@@ -47,7 +47,7 @@ Tools
 <br/>
 <hr>
 
-###  [ KDT 3차 프로젝트 | YET | ComputerVision Project ](https://github.com/Leesarah721/SAVEMORE)
+###  [ KDT 3차 프로젝트 | YET | ComputerVision Project ]()
 >
 > 
 ![프레젠테이션1](https://github.com/user-attachments/assets/da186406-f83e-4c93-8538-a5a32db294e0)
