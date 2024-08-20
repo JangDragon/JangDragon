@@ -61,7 +61,10 @@ Tools
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangDragon&show_icons=true&theme=radical)
 
 <hr>
-<summary>프로젝트</summary>
+
+## 프로젝트
+<details>
+<summary>프로젝트 펼치기</summary>
 ###  [ KDT 1차 프로젝트 | MindGlow ](https://github.com/JangDragon/MindGlow)
 > 심리상담 앱
 >
@@ -93,3 +96,4 @@ Tools
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=footer&text=&fontSize=0" width="100%"/>
 </div>
+</details>
