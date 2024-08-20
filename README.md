@@ -26,17 +26,35 @@ Tools
 
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=Colab&logoColor=white" /> <img src="https://img.shields.io/badge/vscode-2F80ED.svg?style=for-the-badge&logo=vscode&logoColor=white" />
 
-<!--
-**JangDragon/JangDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  [ KDT 1차 프로젝트 | MindGlow )()
+> 심리상담 앱
+>
+> 
 
-Here are some ideas to get you started:
+![메인](https://github.com/user-attachments/assets/029f7a0d-a131-4292-bada-857edb4db8ef)
+)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<hr>
+
+###  [ KDT 2차 프로젝트 | sanjae.gg ](https://github.com/Leesarah721/SAVEMORE)
+> 산재판별 AI
+>
+> 
+
+![메인](https://private-user-images.githubusercontent.com/168061167/358888339-87800d6d-4fe5-4271-83bb-95c7457ac8de.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQxMTMxNzYsIm5iZiI6MTcyNDExMjg3NiwicGF0aCI6Ii8xNjgwNjExNjcvMzU4ODg4MzM5LTg3ODAwZDZkLTRmZTUtNDI3MS04M2JiLTk1Yzc0NTdhYzhkZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyMFQwMDE0MzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02YzgwZDkwMWU0ZjQwYTI5NjQzNDdmYmYxNzBiMGZlZWJjYjc0NjI4OTVjZWUwNjMwOWU2Njc3OTVhMzJhNDczJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.PiIFJs7g11dJ_WGgcTkNXm5QaUxjpGPmoJEbz530Lhw)
+
+<br/>
+<hr>
+
+###  [ KDT 3차 프로젝트 | YET | ComputerVision Project ](https://github.com/Leesarah721/SAVEMORE)
+>
+> 
+![프레젠테이션1](https://github.com/user-attachments/assets/da186406-f83e-4c93-8538-a5a32db294e0)
+
+<br/>
+<hr>
+
+<!-- Footer banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=footer&text=&fontSize=0" width="100%"/>
+</div>
