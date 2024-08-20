@@ -26,7 +26,7 @@ Tools
 
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=Colab&logoColor=white" /> <img src="https://img.shields.io/badge/vscode-2F80ED.svg?style=for-the-badge&logo=vscode&logoColor=white" />
 
-###  [ KDT 1차 프로젝트 | MindGlow )()
+###  [ KDT 1차 프로젝트 | MindGlow )(https://github.com/JangDragon/MindGlow)
 > 심리상담 앱
 >
 > 
@@ -37,7 +37,7 @@ Tools
 <br/>
 <hr>
 
-###  [ KDT 2차 프로젝트 | sanjae.gg ](https://github.com/Leesarah721/SAVEMORE)
+###  [ KDT 2차 프로젝트 | sanjae.gg ](https://github.com/JangDragon/sanjae.gg)
 > 산재판별 AI
 >
 > 
