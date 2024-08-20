@@ -58,6 +58,10 @@ Tools
 
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=Colab&logoColor=white" /> <img src="https://img.shields.io/badge/vscode-2F80ED.svg?style=for-the-badge&logo=vscode&logoColor=white" />
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangDragon&show_icons=true&theme=radical)
+
+<hr>
+<summary>프로젝트</summary>
 ###  [ KDT 1차 프로젝트 | MindGlow ](https://github.com/JangDragon/MindGlow)
 > 심리상담 앱
 >
