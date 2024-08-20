@@ -72,6 +72,7 @@ Tools
 ## 프로젝트
 <details>
 <summary>프로젝트 펼치기</summary>
+  
 ###  [ KDT 1차 프로젝트 | MindGlow ](https://github.com/JangDragon/MindGlow)
 > 심리상담 앱
 >
