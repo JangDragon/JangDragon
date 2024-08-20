@@ -58,7 +58,12 @@ Tools
 
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=Colab&logoColor=white" /> <img src="https://img.shields.io/badge/vscode-2F80ED.svg?style=for-the-badge&logo=vscode&logoColor=white" />
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangDragon&show_icons=true&theme=radical)
+## 📊 My Github Stats 📊
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heeseon06&theme=transparent&show_icons=true&&hide_border=true" alt="GitHub stats" style="width: 54%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeseon06&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" style="width: 45%;">
+</div>
 
 <hr>
 
