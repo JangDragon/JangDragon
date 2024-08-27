@@ -11,6 +11,15 @@
 - 동국대 전산원 (2017-03 ~ 2019-03) <br>
 - 숭실대학교 수학과 (2019-03 ~ 2023-08) <br>
 - python 프로그래밍 언어 학습 및 기본적인 라이브러리 pandas/numpy/matplotlib 등 데이터 분석에 필요한 기본 지식 습득(code it)
+
+# 📑 Portfolio 
+
+
+<span>
+  <a href="https://aribabo.notion.site/399066a49983499c9a259bb3bf7b784d" target="_blank">
+    <img src="https://img.shields.io/badge/PortFolio-6DB33F?style=for-the-badge&logo=notion&logoColor=black" width = 150>
+  </a>
+</span>
 <hr>
 
 - [x] (구로구 X 숭실대) AI융합 아카데미
