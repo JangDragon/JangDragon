@@ -13,7 +13,9 @@
 - python 프로그래밍 언어 학습 및 기본적인 라이브러리 pandas/numpy/matplotlib 등 데이터 분석에 필요한 기본 지식 습득(code it)
 
 <br>
+
 ## 📑 Portfolio 
+
 <span>
   <a href="https://www.notion.so/5a32f63c1556487ba4d6e9ea40ab8189" target="_blank">
     <img src="https://img.shields.io/badge/PortFolio-6DB33F?style=for-the-badge&logo=notion&logoColor=black" width = 150>
