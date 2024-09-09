@@ -25,13 +25,19 @@
 
 - [x] (구로구 X 숭실대) AI융합 아카데미
 - 2023-08-07 ~ 2023-11-17 <br>
-- MS 교육: 클라우드 인공지능, custom vision, 프로젝트
+- MS 교육: Python, 클라우드 인공지능, custom vision, 프로젝트
 - Unity
 <hr>
 
 - [x] AI기반 챗봇 및 OCR 개발 전문가 과정
 - 2024-03-08 ~ 2024-09-05 <br>
-- python, web서비스를 위한 node.js/fastapi/html/css/javascript 학습
+- web서비스를 위한 node.js/fastapi/html/css/javascript 학습
+- SQL : 데이터를 수집하고 정제하는 데 중요한 역할, 분석 및 모델링에 필요한 데이터를 효과적으로 관리
+- 데이터분석 : numpy, pandas, matplotlib
+- ML/DL : 데이터를 학습하여 패턴을 인식하고 예측하는 모델 개발
+- NLP : 사용자 입력을 이해하고 적절히 응답하는 자연어처리 (Word2Vec, BERT 등의 NLP 모델)
+- OCR : 문서 자동화 처리, 스캔된 이미지에서 텍스트를 추출하는 작업 등에 활용
+- Computer Vision : 딥러닝 알고리즘을 사용하여 이미지 기반 데이터를 처리
 - 공공API를 사용한 앱을 개발
 - 산재판례AI 프로젝트를 진행하기 위해 요약, 임베딩, 유사도분석등을 공부
 - 컴퓨터비전(cv2), OCR를 공부하고 활용하여 차선 위반 차량 검거 프로젝트 진행
