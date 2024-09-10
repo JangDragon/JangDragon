@@ -78,10 +78,12 @@
 <br/>
 <hr>
 
-###  [ KDT 3차 프로젝트 | YET | ComputerVision Project ]()
+###  [ KDT 3차 프로젝트 | Auto_Aware ](https://github.com/JangDragon/Auto-Aware)
+> driving care solution: 절도 탐지 및 운전 안전 시스템
 >
 > 
-![프레젠테이션1](https://github.com/user-attachments/assets/da186406-f83e-4c93-8538-a5a32db294e0)
+![메인](https://private-user-images.githubusercontent.com/145341788/365906846-796eabaa-6c89-4958-a389-fa507374dbc7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU5NjEyMzcsIm5iZiI6MTcyNTk2MDkzNywicGF0aCI6Ii8xNDUzNDE3ODgvMzY1OTA2ODQ2LTc5NmVhYmFhLTZjODktNDk1OC1hMzg5LWZhNTA3Mzc0ZGJjNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkxMFQwOTM1MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNzVkZTZmZTNlYTliNDg0OTllYTc1Y2E2N2IzNmQzNTVkOWU1ZDY5NTRlNzhiNGM5NTU1OTc4ZTliOGM2OTMyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.7H-FR8jXEjrxz0CQJGAhJIlHKuhF3Iz3mh2SkRfiuL4)
+
 
 
 </details>
