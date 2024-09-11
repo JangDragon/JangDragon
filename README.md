@@ -17,7 +17,7 @@
 ## 📑 Portfolio 
 
 <span>
-  <a href="https://www.notion.so/5a32f63c1556487ba4d6e9ea40ab8189" target="_blank">
+  <a href="https://jangdragon.notion.site/5a32f63c1556487ba4d6e9ea40ab8189" target="_blank">
     <img src="https://img.shields.io/badge/PortFolio-6DB33F?style=for-the-badge&logo=notion&logoColor=black" width = 150>
   </a>
 </span>
